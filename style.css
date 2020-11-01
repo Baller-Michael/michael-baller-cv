@@ -214,7 +214,7 @@ section {
     background-color: orange;
 }
 .about-parallax {
-    background-image: url("./images/about-me.png");
+    background-image: url("./images/first-parallax.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
